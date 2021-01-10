@@ -1,7 +1,7 @@
 # 2021_Winter
 This repository displays what Julia Li have explored herself since she became an undergraduate.
 
-***Class1***Visualization
+***Class1 Visualization***
 During the epidemic last winter, Julia Li made many attempts to make the COVID-19, which we were all concerned about, more vividly shown in front of our eyes.
 Thus, she tried to learn some python libraries like matplotlib, mpl_toolkits.mplot3d, turtle, pyecharts and so on. Although they may be too childish for a large number of people, I was really exited to discover a brand new world, which is exotic and amazing.
 1. 2D_virus.py: display the viration of the detected patients in China from Jan to Feb in 2020
@@ -23,5 +23,18 @@ Other tries not related to COVID-19: (for environmental anlysis mostly)
 6. 北京.py, 天津.py, 河北.py: maps showing how PM2.5 disperse in different areas of BTH
 7. Character.py: use turtle to write several vivid characters
 
-***Class2***File Process
+***Class2 File Process***
 It is really hard for me who are not quite familiar with Microsoft to deal with a large quantities of files and data. In order to improve my efficiency, I wrote/cited some codes to handle file types like excel, csv, nc and so on. Some of codes I have created are as follows.
+1. 
+
+***Class3 Game***
+I loved to play computer games when I was a primary-school girl. As I grew up gradually, I do not find it very interesting, probably because I have found something more attractive like chatting with my friends, watching movies and so on. But I do think that creating a small-scaled games on computers by your own is not only entertaining but also fascinating. Using Matlab and Python, the following projects are partially made by myself.
+1. ball.py: it is a small game simulate a ball which will crash the bricks laying above it, and users can move mouse to control hos the ball will rebound
+2. jigsaw.m: a simple puzzle that has 9 grids and 8 pieces, you can move 1 piece to the empty grid and finally get an intact picture.
+3. wuziqi.m: use upper, lower, left and right keys as well as space to control the move of chess pieces. You can play with a friend to see whether you can win.
+
+***Class4 Web-Crawler***
+These projects are mainly developed by importing libraries like requests, bs4,
+
+***Class5 Others***
+I have off-the-wall ideas sometimes and then I will learn from the Internet to develop something of different categories. They may include tiny open-cv programs, 
