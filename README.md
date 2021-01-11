@@ -36,7 +36,7 @@ It is really hard for me who are not quite familiar with Microsoft to deal with 
 9. rename.py: rename the files in a directory into a more standardized form
 10. row.py: count how many rows are there in each txt files in a directory (importing os)
 
-***Class3 Game***
+***Class3 Games***
 I loved to play computer games when I was a primary-school girl. As I grew up gradually, I do not find it very interesting, probably because I have found something more attractive like chatting with my friends, watching movies and so on. But I do think that creating a small-scaled games on computers by your own is not only entertaining but also fascinating. Using Matlab and Python, the following projects are partially made by myself.
 1. ball.py: it is a small game simulate a ball which will crash the bricks laying above it, and users can move mouse to control hos the ball will rebound
 2. jigsaw.m: a simple puzzle that has 9 grids and 8 pieces, you can move 1 piece to the empty grid and finally get an intact picture.
