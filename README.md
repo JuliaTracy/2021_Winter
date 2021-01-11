@@ -25,7 +25,16 @@ Other tries not related to COVID-19: (for environmental anlysis mostly)
 
 ***Class2 File Process***
 It is really hard for me who are not quite familiar with Microsoft to deal with a large quantities of files and data. In order to improve my efficiency, I wrote/cited some codes to handle file types like excel, csv, nc and so on. Some of codes I have created are as follows.
-1. 
+1. convert.py: convert all xls files in a directory into csv files
+2. csv1.py: a framework of reading csv files
+3. excel_combine,py: combine 2 xls files and save them to a csv
+4. excel_split.py: split 1 xls file into several xls files
+5. filemove.py: move the files you assigned from one directory to another
+6. ncread.py: a framework of reading nc files
+7.ppt.py, ppt2pdf.py: convert ppt/pptx to pdf
+8. WWTPsloc.py: compare the information from 2 xls files and merge the records that have same values together
+9. rename.py: rename the files in a directory into a more standardized form
+10. row.py: count how many rows are there in each txt files in a directory (importing os)
 
 ***Class3 Game***
 I loved to play computer games when I was a primary-school girl. As I grew up gradually, I do not find it very interesting, probably because I have found something more attractive like chatting with my friends, watching movies and so on. But I do think that creating a small-scaled games on computers by your own is not only entertaining but also fascinating. Using Matlab and Python, the following projects are partially made by myself.
@@ -38,3 +47,11 @@ These projects are mainly developed by importing libraries like requests, bs4,
 
 ***Class5 Others***
 I have off-the-wall ideas sometimes and then I will learn from the Internet to develop something of different categories. They may include tiny open-cv programs, 
+1. OCR.py: utilize Baidu API to scan a picture and transform it into text
+2. translate_sentencebysentence.py: utilize Baidu Translate API to translate from Chinese to English
+3. translate_file2file.py: read a txt file in English and translate it into another file in Chinese
+4. face.py: use opencv-python to recognize a face/faces in a photo
+5. Email.py: use python to send a QQ Email (smtp.qq.com)
+6. POI.py: utilize Baidu API to get information like locations, address, name of the point of interests you assigned
+7. zhiwang.py: simulate Google chrome to search for the basic information of thesis on CNKI
+8. BPtest.m: a trial to use Back-Propagation neutral network to predict the traffic flow
