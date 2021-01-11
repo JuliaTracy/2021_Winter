@@ -23,7 +23,7 @@ Other tries not related to COVID-19: (for environmental anlysis mostly)
 6. 北京.py, 天津.py, 河北.py: maps showing how PM2.5 disperse in different areas of BTH
 7. Character.py: use turtle to write several vivid characters
 
-***There are also some visualisation programs made by R that has similar functions as the contents above, which I store them in "R Creation" directory. In addition, some Origin programs can draw beautiful pictures as well, thus I include two opju programs here.
+***There are also some visualisation programs made by R that has similar functions as the contents above, which I store them in "R" directory. In addition, some Origin programs can draw beautiful pictures as well, thus I include two opju programs here.***
 
 ***Class2 File Process***
 It is really hard for me who are not quite familiar with Microsoft to deal with a large quantities of files and data. In order to improve my efficiency, I wrote/cited some codes to handle file types like excel, csv, nc and so on. Some of codes I have created are as follows.
