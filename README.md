@@ -45,9 +45,20 @@ I loved to play computer games when I was a primary-school girl. As I grew up gr
 3. wuziqi.m: use upper, lower, left and right keys as well as space to control the move of chess pieces. You can play with a friend to see whether you can win.
 
 ***Class4 Web-Crawler***
-These projects are mainly developed by importing libraries like requests, bs4,
+These projects are mainly developed by importing libraries like requests and bs4. Codes are all written when I was learning “Web Crawler” course through https://icourse163.org. There is a series of courses about python from a famous teacher called Song Tian, who is a professor from Beijing Institute of Technology. Here I will cite the course introduction in the following lines:
+"This course is aimed at all kinds of programming learners, explaining the techniques and methods of crawling network data and extracting key information by using Python language, and helping learners master the basic abilities of directional web data crawling and web page parsing.
+This course is an introduction to web crawling and parsing techniques in the Python computing ecosystem. It teaches the techniques for building web crawlers, such as Requests -BS4-Re and Scrapy. The course covers Amazon, Google, NSA, PayPal, Twitter, and many other companies.Includes the required content and elective content.
+Compulsory contents include:
+This is the Python library for automatically retrieving data from the Internet and submitting Requests to it over HTTP/HTTPS.
+(2) Robots protocol, web crawler exclusion standards, explaining the norms of polite and legal access to information;
+(3) Beautiful Soup, a third-party Python library, explains how to parse complete Web information from crawled HTML pages.
+(4) The Python standard library RE, which explains how to extract key information from crawling HTML pages."
+I consider the course extremely excellent because the teacher convey the main ideas of Web Crawler clearly and precisely, which makes the contents easy to understand. My codes include the examples included in the course such as Amazon, Baidu, Taobao and so on. Although they may not able to be used in the future because of the updated web frameworks, you can also refer to it as you may need.
 
-***Class5 Others***
+***Class5 Arcpy***
+
+
+***Class6 Others***
 I have off-the-wall ideas sometimes and then I will learn from the Internet to develop something of different categories. They may include tiny open-cv programs, 
 1. OCR.py: utilize Baidu API to scan a picture and transform it into text
 2. translate_sentencebysentence.py: utilize Baidu Translate API to translate from Chinese to English
