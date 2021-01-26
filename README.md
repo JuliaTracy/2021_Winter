@@ -68,6 +68,7 @@ Last semester, I took the course of Environmental Information Technology and Pra
 5. Surface to line: convert surface elements into line elements
 6. Add coordinates and delete fields: mainly for property sheet operation, generate the coordinates of point elements, delete unnecessary fields
 7. Intersect: Find the intersection lines/intersection points of two element layers
+8. distance.py: Enter the latitude and longitude of the WGS 1984 coordinate system in two ways to find the distance between two points in meters or kilometers
 
 ***Class6 Others***
 I have off-the-wall ideas sometimes and then I will learn from the Internet to develop something of different categories. They may include tiny open-cv programs, 
