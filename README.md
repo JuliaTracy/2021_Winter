@@ -37,6 +37,8 @@ It is really hard for me who are not quite familiar with Microsoft to deal with 
 8. WWTPsloc.py: compare the information from 2 xls files and merge the records that have same values together
 9. rename.py: rename the files in a directory into a more standardized form
 10. row.py: count how many rows are there in each txt files in a directory (importing os)
+11. remove.py: when there are too many files with similar names within a directory, you can identify the feature of their names and remove them quickly
+12. listname.py: list the names of a certain type of files in a directory and write them into an excel
 
 ***Class3 Games***
 I loved to play computer games when I was a primary-school girl. As I grew up gradually, I do not find it very interesting, probably because I have found something more attractive like chatting with my friends, watching movies and so on. But I do think that creating a small-scaled games on computers by your own is not only entertaining but also fascinating. Using Matlab and Python, the following projects are partially made by myself.
@@ -46,6 +48,7 @@ I loved to play computer games when I was a primary-school girl. As I grew up gr
 
 ***Class4 Web-Crawler***
 These projects are mainly developed by importing libraries like requests and bs4. Codes are all written when I was learning “Web Crawler” course through https://icourse163.org. There is a series of courses about python from a famous teacher called Song Tian, who is a professor from Beijing Institute of Technology. Here I will cite the course introduction in the following lines:
+
 "This course is aimed at all kinds of programming learners, explaining the techniques and methods of crawling network data and extracting key information by using Python language, and helping learners master the basic abilities of directional web data crawling and web page parsing.
 This course is an introduction to web crawling and parsing techniques in the Python computing ecosystem. It teaches the techniques for building web crawlers, such as Requests -BS4-Re and Scrapy. The course covers Amazon, Google, NSA, PayPal, Twitter, and many other companies.Includes the required content and elective content.
 Compulsory contents include:
@@ -53,10 +56,18 @@ This is the Python library for automatically retrieving data from the Internet a
 (2) Robots protocol, web crawler exclusion standards, explaining the norms of polite and legal access to information;
 (3) Beautiful Soup, a third-party Python library, explains how to parse complete Web information from crawled HTML pages.
 (4) The Python standard library RE, which explains how to extract key information from crawling HTML pages."
+
 I consider the course extremely excellent because the teacher convey the main ideas of Web Crawler clearly and precisely, which makes the contents easy to understand. My codes include the examples included in the course such as Amazon, Baidu, Taobao and so on. Although they may not able to be used in the future because of the updated web frameworks, you can also refer to it as you may need.
 
 ***Class5 Arcpy***
-
+Last semester, I took the course of Environmental Information Technology and Practice and learned how to use various tools of ArcGIS. Recently, however, there is a need to batch calculate the shape index of each prefecture-level city in China. There are more than 300 cities with complete data, which will take a long time if you use manual tools. Therefore, I consulted some books and literatures about Arcpy and learned the methods of Python and ArcGIS interface. I think I have had a relatively rough and overall understanding of ArcPy in this exploration process, understood how to use some tools, and knew where to go when reporting errors (ArcGIS Desktop description). I really appreciate the TA's help in this course. The functions of the codes I uploaded are very clear:
+1. Feature2Point: Feature2Point is used for converting surface features into point features to find the centroid of surface layers
+2. Export: You can solve many bugs by copying the required elements and exporting them
+3. Merge: Combine elements with the same characteristics into one layer
+4. Distance measurement: Calculate the distance between a certain point and its neighboring points mainly based on point elements, and finally generate a table file
+5. Surface to line: convert surface elements into line elements
+6. Add coordinates and delete fields: mainly for property sheet operation, generate the coordinates of point elements, delete unnecessary fields
+7. Intersect: Find the intersection lines/intersection points of two element layers
 
 ***Class6 Others***
 I have off-the-wall ideas sometimes and then I will learn from the Internet to develop something of different categories. They may include tiny open-cv programs, 
